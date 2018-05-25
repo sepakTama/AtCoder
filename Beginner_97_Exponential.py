@@ -2,7 +2,7 @@
 from math import sqrt, floor
 
 X = int(input())
-root_int = int(floor(sqrt(X)))
+root_int = floor(sqrt(X))
 
 list = []
 
